@@ -47,5 +47,8 @@ baidu download link 下载地址：链接：https://pan.baidu.com/s/1jQzZfzZPze2
 
 ![1](https://github.com/ainewsto/TripoSR-windows/assets/113163264/98156b60-2e72-4d67-9cb6-ba3c2bff4a8d)
 
+![9V36XYAM$C8 UW~NDW(SO34](https://github.com/ainewsto/TripoSR-windows/assets/113163264/90dc9ff1-39dc-498e-a5f8-e70d4de31ff0)
+
+
 
 
