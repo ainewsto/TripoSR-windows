@@ -2,7 +2,7 @@
 
 ## Forked from @Artiprocher's GitHub 原作者项目地址
 
-[[https://github.com/Artiprocher/DiffSynth-Studio](https://github.com/VAST-AI-Research/TripoSR)]
+https://github.com/VAST-AI-Research/TripoSR
 
 ## Installation 安装环境
 
