@@ -7,6 +7,7 @@
 ## Installation 安装环境
 
 Create Python environment:
+Make sure you have miniconda or anaconda installed
 
 ```
 cd TripoSR
