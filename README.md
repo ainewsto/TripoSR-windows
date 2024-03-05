@@ -29,7 +29,7 @@ pip install gradio==4.5
 ```
 
 
-## Run (in WebUI) 启动UI界面
+## Run (in gradio) 启动UI界面
 
 ```
 double-click run.bat
