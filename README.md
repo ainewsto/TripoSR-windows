@@ -32,8 +32,8 @@ pip install gradio==4.5
 ## Run (in WebUI) 启动UI界面
 
 ```
-double-click 启动.bat
-When you look at the link（http://127.0.0.1:7860） that appears, double-click 启动网页快捷方式
+double-click run.bat
+When you look at the link（http://127.0.0.1:7860） that appears, double-click dark-url
 ```
 
 ## Directly download windows整合包下载
